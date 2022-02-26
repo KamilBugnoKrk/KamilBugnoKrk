@@ -13,11 +13,13 @@ I’m interested in C#, .NET, cloud computing and React.
 
 
 #### My Blog Posts
-* [Web accessibility](https://dev.to/kamilbugnokrk/web-accessibility-3805)
-* [104 revision questions for AZ-104](https://dev.to/kamilbugnokrk/104-revision-questions-for-az-104-49oc)
-* [How to protect Azure resources from DDoS?](https://dev.to/kamilbugnokrk/how-to-protect-azure-resources-from-ddos-53p1)
-* [Revision questions for AI-102](https://dev.to/kamilbugnokrk/revision-questions-for-ai-102-1pil)
-* [Dependency injection in .NET Core](https://dev.to/kamilbugnokrk/di-in-net-core-5c08)
+* [Web accessibility](https://blog.kamilbugno.com/web-accessibility)
+* [104 revision questions for AZ-104](https://blog.kamilbugno.com/104-revision-questions-for-az-104)
+* [How to protect Azure resources from DDoS?](https://blog.kamilbugno.com/how-to-protect-azure-resources-from-ddos)
+* [Revision questions for AI-102](https://blog.kamilbugno.com/revision-questions-for-ai-102)
+* [Dependency injection in .NET Core](https://blog.kamilbugno.com/dependency-injection-in-dot-net-core)
+* [Availability in Azure](https://blog.kamilbugno.com/availability-in-azure)
 
 #### My Open-Source Projects
 * [WordTester](http://wordtester.org/) - An application for learning foreign words using flashcards and spaced repetition 
+* [aux-router](https://github.com/KamilBugnoKrk/aux-router) - React router that supports rendering of multiple independent (auxiliary) routes. 
