@@ -19,6 +19,7 @@ I’m interested in C#, .NET, cloud computing and React.
 * [Revision questions for AI-102](https://blog.kamilbugno.com/revision-questions-for-ai-102)
 * [Dependency injection in .NET Core](https://blog.kamilbugno.com/dependency-injection-in-dot-net-core)
 * [Availability in Azure](https://blog.kamilbugno.com/availability-in-azure)
+* [Asynchronous programming in C#](https://blog.kamilbugno.com/asynchronous-programming-in-csharp)
 
 #### My Open-Source Projects
 * [WordTester](http://wordtester.org/) - An application for learning foreign words using flashcards and spaced repetition 
